@@ -1,4 +1,4 @@
-# Data Enjeneering: Pipelines on the Cloud from scratch
+# Data Engineering: Pipelines on the Cloud from scratch
 
 ## Used tools
  **Python 3.8**
